@@ -13,8 +13,7 @@ const config = [
 	},
 	{
 		src: "app/not_app.js",
-		dest: "app/not",
-		newName: "app.js"
+		dest: "app/not"
 	},
 	{
 		src: "design/design.js",
